@@ -7,4 +7,5 @@ target/
 .DS_Store
 .metadata
 .bash_profile
+pom.xml
 
